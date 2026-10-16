@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-👉 [点击访问在线演示](https://shaomingyuzhaogongzuo.github.io/translator/)
+ [点击访问在线演示](https://shaomingyuzhaogongzuo.github.io/translator/)
 
 ## 功能特性
 
